@@ -1,5 +1,5 @@
 +++
-title = "Hello World"
+title = "Hello world!"
 author = ["Gray King"]
 date = 2021-11-19T00:00:00+08:00
 draft = false
