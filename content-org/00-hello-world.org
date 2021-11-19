@@ -16,6 +16,6 @@ First, some tools would be helpful. As I use Emacs as the editor, I enabled some
 Then, I want to say more about the blog. I'm using the [[https://gohugo.io/][HUGO]] to generate the site. And writing posts by Emacs in [[https://orgmode.org/][Org Mode]] format.
 Yes, [[https://gohugo.io/][HUGO]] only accepts Markdown files. But within the power of [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] here we are.
 
-If you have some advice, please email me to [[mailto:grayking.w@gmail.com]]. Happy to hear!
+If you have any advice, please email me to [[mailto:grayking.w@gmail.com]]. Happy to hear!
 
 Hello, world!
