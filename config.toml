@@ -1,0 +1,4 @@
+baseURL = "http://bitpy.github.io/"
+languageCode = "en-us"
+title = "Useless Thoughts"
+theme = "PaperMod"
