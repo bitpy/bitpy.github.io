@@ -16,7 +16,7 @@ First, some tools would be helpful. As I use Emacs as the editor, I enabled some
 -   [flycheck-grammarly](https://github.com/emacs-grammarly/flycheck-grammarly) to use [grammarly](https://www.grammarly.com/) to check the grammar of sentences.
 
 Then, I want to say more about the blog. I'm using the [HUGO](https://gohugo.io/) to generate the site. And writing posts by Emacs in [Org Mode](https://orgmode.org/) format.
-Yes, [HUGO](https://gohugo.io/) only accepts Markdown files. But with the power of [ox-hugo](https://github.com/kaushalmodi/ox-hugo) here we are.
+Yes, [HUGO](https://gohugo.io/) only accepts Markdown files. But within the power of [ox-hugo](https://github.com/kaushalmodi/ox-hugo) here we are.
 
 If you have some advice, please email me to <mailto:grayking.w@gmail.com>. Happy to hear!
 
