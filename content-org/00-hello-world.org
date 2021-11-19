@@ -6,7 +6,7 @@
 I want to share some useless thoughts in English, as I'm learning it. I believe that you won't master it only if you use it.
 
 There is no environment to use English, as I long live in China. So I'm seeking a method to practice my English skill.
-And here is what I thought:writing, writing in English. Then share them in the blog, make mistakes, excepting someone to point it out.
+And here is what I found:writing, writing in English. Then share them in the blog, make mistakes, excepting someone to point it out.
 
 First, some tools would be helpful. As I use Emacs as the editor, I enabled some plugins to check:
 
