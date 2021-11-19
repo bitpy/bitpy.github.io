@@ -1,13 +1,21 @@
-#+TITLE: Hello world!
+#+TITLE: Hello, world!
 #+DATE: <2021-11-19>
 #+AUTHOR: Gray King
 #+HUGO_BASE_DIR: ../
 
-I want to share some useless thoughts in English, as I'm learning it. I believe that you won't learn it only if you use it.
+I want to share some useless thoughts in English, as I'm learning it. I believe that you won't master it only if you use it.
 
-There is no environment to use English, as I long live in China. So I'm thinking how to practice my English skill.
-And here is what I thought: writing, writing in English. Then share them in this blog, make mistakes and excepting someone to point it out.
+There is no environment to use English, as I long live in China. So I'm seeking a method to practice my English skill.
+And here is what I thought:writing, writing in English. Then share them in the blog, make mistakes, excepting someone to point it out.
+
+First, some tools would be helpful. As I use Emacs as the editor, I enabled some plugins to check:
+
+- [[https://www.emacswiki.org/emacs/FlySpell][Fly Spell]] to check the spell of words;
+- [[https://github.com/emacs-grammarly/flycheck-grammarly][flycheck-grammarly]] to use [[https://www.grammarly.com/][grammarly]] to check the grammar of sentences.
+
+Then, I want to say more about the blog. I'm using the [[https://gohugo.io/][HUGO]] to generate the site. And writing posts by Emacs in [[https://orgmode.org/][Org Mode]] format.
+Yes, [[https://gohugo.io/][HUGO]] only accepts Markdown files. But under the power of [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] here we are.
 
 If you have some advice, please email me to [[mailto:grayking.w@gmail.com]]. Happy to hear!
 
-Hello world!
+Hello, world!
