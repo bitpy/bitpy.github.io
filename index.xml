@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Useless Thoughts</title>
+    <link>http://bitpy.github.io/</link>
+    <description>Recent content on Useless Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="http://bitpy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://bitpy.github.io/posts/00-hello-world/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://bitpy.github.io/posts/00-hello-world/</guid>
+      <description>I want to share some useless thoughts in English, as I&amp;rsquo;m learning it. I believe that you won&amp;rsquo;t learn it only if you use it.
+There is no environment to use English, as I long live in China. So I&amp;rsquo;m thinking how to practice my English skill. And here is what I thought: writing, writing in English. Then share it in this blog, make mistakes and excepting someone to point it out.</description>
+    </item>
+    
+  </channel>
+</rss>
